@@ -1,11 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "Tutoring (CalTeach) at Berkeley High School"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+permalink: /teaching/2026-spring-teaching-1
+venue: "Berkeley High School"
+date: 2026-02-09
+location: "Berkeley, CA, USA"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
