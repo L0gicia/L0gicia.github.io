@@ -1,7 +1,7 @@
 ---
 title: "Tutoring (CalTeach) at Berkeley High School"
 collection: teaching
-type: "Undergraduate course"
+type: "Tutoring"
 permalink: /teaching/2026-spring-teaching-1
 venue: "Berkeley High School"
 date: 2026-02-09
