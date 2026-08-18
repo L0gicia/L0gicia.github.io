@@ -1,12 +1,26 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
+I am an undergraduate student studying pure mathematics at the University of California, Berkeley. 
+
+### Interests
+My primary academic interests include Number Theory and Mathematical Logic. 
+
+### Expository Notes & Research
+You can find my expository papers, course notes, and Lean projects on the [Writing](/writing/) page or view my [CV](/files/cv.pdf).
+
+### Other Activities
+I am a problem writer and volunteer for the Berkeley Math Tournament, mostly assisting in writing Calculus and Discrete problems, as well as the Integral Bee questions. I was the runner-up in the 2026 UC Berkeley Integration Bee. I participated in the Putnam Competition.
+I am also a chess player and has played competitively for the Berkeley Chess Team in the Collegiate Chess League, most recently in their B Team. 
+I am also a small YouTube content creator, making ShellShock Live content.
+In my free time, I like to ponder about certain political, philosophical, and mathematical ideas, and sometimes play piano (because I played it for over 10 years)
+<!--
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
  You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
@@ -54,3 +68,4 @@ Example: editing a Markdown file for a talk
 For more info
 ------
 More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+-->
