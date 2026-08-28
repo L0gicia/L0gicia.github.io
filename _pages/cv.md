@@ -39,12 +39,14 @@ Skills
   * Python
 * Creative Problem Writing/Solving
 
+{% comment %}
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
-    <!-- {% include archive-single-cv.html %} -->
-  <!-- {% endfor %}</ul> -->
-  
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+{% endcomment %}
+
 Talks
 ======
   <ul>{% for post in site.talks reversed %}
