@@ -13,7 +13,7 @@ I am an undergraduate student studying pure mathematics at the University of Cal
 My primary academic interests include Number Theory and Mathematical Logic. 
 
 ### Expository Notes & Research
-You can find my expository education papers in my [Portfolio](/portfolio/) or view my [CV](/cv/).
+You can find my expository education papers in my [Portfolio]({{ base_path }}/portfolio/) or view my [CV]({{ base_path }}/cv/).
 
 ### Other Activities
 I am a problem writer and volunteer for the Berkeley Math Tournament, mostly assisting in writing Calculus and Discrete problems, as well as the Integral Bee questions. I was the runner-up in the 2026 UC Berkeley Integration Bee. I participated in the Putnam Competition.
