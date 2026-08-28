@@ -11,26 +11,24 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.S. in Mathematics, University of California, Berkeley, 2029 (expected)
+* High School Diploma, Montgomery Bell Academy, 2025
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Summer 2026: Teaching Assistant
+  * Montgomery Bell Academy
+  * Duties included: Supervising and occasionally teaching students
+  * Mentor Teacher: JoAnn Welch
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Spring 2026: Berkeley High School Tutor
+  * Berkeley High School
+  * Duties included: Tutoring students on math concepts.
+  * Mentor Teacher: Spencer Pritchard
+ 
+* Fall 2025 - Present: BMT Problem Writer/Volunteer
+  * University of California, Berkeley
+  * Duties include: Writing, revising, and testing problems for the Berkeley (mini) Math Tournament 
   
 Skills
 ======
@@ -61,4 +59,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Actively theorizing an entire political philosophy that would ensure society is no longer tainted by polarization and inequality independently of mainstream theories and philosophies.
