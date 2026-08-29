@@ -8,13 +8,12 @@ date: 2026-06-22
 location: "Nashville, TN, USA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Conducted over 4 weeks in June and July 2026 for EDUC 130 fieldwork credit
 
-Heading 1
+MATHCOUNTS Camp
 ======
+Assisted in supervising 14 students for a week and grading their problem sets. Also taught them basic proof concepts. 3 hours per day.
 
-Heading 2
+Algebra I and Algebra II Course Remediation
 ======
-
-Heading 3
-======
+Assisted in supervising 4 students in Algebra I and 1 student in Algebra II over 3 weeks and proctoring during quizzes/tests. Also personally taught students lessons they missed. 4.5 hours per day.
