@@ -14,6 +14,17 @@ Education
 * B.S. in Mathematics, University of California, Berkeley, 2029 (expected)
 * High School Diploma, Montgomery Bell Academy, 2025
 
+Relevant Coursework
+======
+{% for section in site.data.coursework %}
+### {{ section.category }}
+<ul>
+  {% for course in section.courses %}
+  <li><strong>{{ course.code }}:</strong> {{ course.name }}</li>
+  {% endfor %}
+</ul>
+{% endfor %}
+
 Work experience
 ======
 * Summer 2026: Teaching Assistant
@@ -28,7 +39,7 @@ Work experience
  
 * Fall 2025 - Present: BMT Problem Writer/Volunteer
   * University of California, Berkeley
-  * Duties include: Writing, revising, and testing problems for the Berkeley (mini) Math Tournament 
+  * Duties include: Writing, revising, and testing problems for the Berkeley (mini) Math Tournament
   
 Skills
 ======
