@@ -5,7 +5,7 @@ type: "Talk"
 permalink: /talks/collatz-non-trivial-cycles/
 venue: "Montgomery Bell Academy"
 date: 2025-05-04
-abstract: "/files/The_Collatz_Conjecture_and_Non_Trivial_Cycles.pdf"
+paperurl: "/files/The_Collatz_Conjecture_and_Non_Trivial_Cycles.pdf"
 slides: "https://docs.google.com/presentation/d/e/2PACX-1vTAB3sgny5013ajyrHZNlqMb52hmEtsnjMyrRe9MVWj5IG1SseSHFuaprbbKV-z_O6uc2cmtxzcJXdg/pubembed?start=false&loop=false&delayms=3000"
 location: "Nashville, TN, USA"
 ---
