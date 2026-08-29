@@ -15,6 +15,11 @@ My primary academic interests include Number Theory and Mathematical Logic.
 ### Expository Notes & Research
 You can find my expository education papers in my [Portfolio]({{ base_path }}/portfolio/) or view my [CV]({{ base_path }}/cv/).
 
+### Relevant Coursework
+{% for section in site.data.coursework %}
+**{{Mathematics}}**:
+{% endfor %}
+
 ### Other Activities
 I am a problem writer and volunteer for the Berkeley Math Tournament, mostly assisting in writing Calculus and Discrete problems, as well as the Integral Bee questions. I was the runner-up in the 2026 UC Berkeley Integration Bee. I participated in the Putnam Competition.
 I am also a chess player and has played competitively for the Berkeley Chess Team in the Collegiate Chess League, most recently in their B Team. 
