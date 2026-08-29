@@ -155,8 +155,8 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-gtag" # false (default), "google", "google-universal", "google-analytics-4", "custom"
-  google:
+  provider               :  "google-analytics-4" # false (default), "google", "google-universal", "google-analytics-4", "custom"
+  google_analytics_4:
     tracking_id          :"G-RH2RTHY6RD"
     anonymize_ip         : false
 
