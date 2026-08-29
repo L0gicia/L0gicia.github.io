@@ -8,13 +8,4 @@ date: 2026-02-09
 location: "Berkeley, CA, USA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Conducted over Spring 2026 semester for EDSTEM 82T fieldwork credit. Did one-on-one tutoring with students in Mathematics II and Mathematics III.
