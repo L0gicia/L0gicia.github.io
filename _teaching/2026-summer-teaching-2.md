@@ -8,7 +8,7 @@ date: 2026-06-22
 location: "Nashville, TN, USA"
 ---
 
-Conducted over 4 weeks in June and July 2026 for EDUC 130 fieldwork credit
+Conducted over 4 weeks in June and July 2026 for EDUC 130 fieldwork credit.
 
 MATHCOUNTS Camp
 ======
