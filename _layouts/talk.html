@@ -37,6 +37,14 @@ layout: default
         {% endif %}
         {% if page.talk_type %}<p>{{page.talk_type}} at {{ page.venue }},  {{page.location}} {% endif %}
 
+        {% if page.paperurl %}
+          <p><a href="{{ page.paperurl }}" class="btn btn--info">Download Abstract / Paper</a></p>
+        {% endif %}
+
+        {% if page.slidesurl %}
+          <p><a href="{{ page.slidesurl }}" class="btn btn--success">View Slides</a></p>
+        {% endif %}
+          
         </header>
       {% endunless %}
 
