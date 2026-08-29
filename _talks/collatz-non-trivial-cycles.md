@@ -2,7 +2,7 @@
 title: "The Collatz Conjecture and Non Trivial Cycles"
 collection: talks
 type: "Talk"
-permalink: /talks/collatz-non-trivial-cycles
+permalink: /talks/collatz-non-trivial-cycles/
 venue: "Montgomery Bell Academy"
 date: 2025-05-04
 abstract: "/files/The_Collatz_Conjecture_and_Non_Trivial_Cycles.pdf"
