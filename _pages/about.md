@@ -17,7 +17,11 @@ You can find my expository education papers in my [Portfolio]({{ base_path }}/po
 
 ### Relevant Coursework
 {% for section in site.data.coursework %}
-**{{Mathematics}}**:
+**{{ section.category }}**: 
+{% for course in section.courses -%}
+  {{ course.code }} ({{ course.name }}){% unless forloop.last %}, {% endunless %}
+{%- endfor %}
+
 {% endfor %}
 
 ### Other Activities
