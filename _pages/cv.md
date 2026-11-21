@@ -20,13 +20,20 @@ Relevant Coursework
 ### {{ section.category }}
 <ul>
   {% for course in section.courses %}
-  <li><strong>{{ course.code }}:</strong> {{ course.name }}</li>
+  <strong>{{ course.code }}:</strong> {{ course.name }}
+    {% if course.instructor %} (Instructor: {{ course.instructor }}){% endif %}
+  </li>
   {% endfor %}
 </ul>
 {% endfor %}
 
 Work experience
 ======
+* Fall 2026: Classroom Assistant
+  * Westlake Middle School
+  * Duties included: Monitoring student progress and understanding of 6th Grade Math concepts.
+  * Mentor Teacher: Owen Konsmo 
+
 * Summer 2026: Teaching Assistant
   * Montgomery Bell Academy
   * Duties included: Supervising and occasionally teaching students
@@ -39,7 +46,7 @@ Work experience
  
 * Fall 2025 - Present: BMT Problem Writer/Volunteer
   * University of California, Berkeley
-  * Duties include: Writing, revising, and testing problems for the Berkeley (mini) Math Tournament
+  * Duties include: Writing, revising, and testing problems for the Berkeley (mini) Math Tournament, notably for the Calculus focus test and the Integration Bee
   
 Skills
 ======
