@@ -41,4 +41,9 @@
       name: "Metamathematics of Set Theory"
       instructor: "Gabriel Goldberg"
       sem/yr: "Spring 2027"
-    
+- category: "Self-studied / DRP"
+  courses:
+    - name: "Set Theory"
+      sem/yr: "Winter Break 2026-2027
+    - name: "Lie Algebra DRP"
+      sem/yr: "Fall 2026"
