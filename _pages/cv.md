@@ -20,8 +20,11 @@ Relevant Coursework
 ### {{ section.category }}
 <ul>
   {% for course in section.courses %}
-  <strong>{{ course.code }}:</strong> {{ course.name }}
+  <li>
+    {% if course.code %}<strong>{{ course.code }}:</strong> {% endif %}
+    <strong>{{ course.name }}</strong>
     {% if course.instructor %} (Instructor: {{ course.instructor }}){% endif %}
+    {% if course.description %} — {{ course.description }}{% endif %}
   </li>
   {% endfor %}
 </ul>
