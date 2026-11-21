@@ -23,8 +23,9 @@ Relevant Coursework
   <li>
     {% if course.code %}<strong>{{ course.code }}:</strong> {% endif %}
     <strong>{{ course.name }}</strong>
-    {% if course.instructor %} (Instructor: {{ course.instructor }}){% endif %}
-    {% if course.description %} — {{ course.description }}{% endif %}
+    {% if course.term %} <em>({{ course.term }})</em>{% endif %}
+    {% if course.instructor %} — Instructor: {{ course.instructor }}{% endif %}
+    {% if course.description %}<br><span style="color: #666; font-size: 0.92em;">{{ course.description }}</span>{% endif %}
   </li>
   {% endfor %}
 </ul>
