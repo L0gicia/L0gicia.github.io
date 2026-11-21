@@ -45,5 +45,7 @@
   courses:
     - name: "Set Theory"
       sem/yr: "Winter Break 2026-2027
+      description: "Intend to work through Antonio Montalban's Youtube videos on MATH 135 (Introduction to Set Theory), Enderton's 'Set Theory', and Kunen's 'Set Theory: An Introduction to Independence Proofs'"
     - name: "Lie Algebra DRP"
       sem/yr: "Fall 2026"
+      description: "Worked through Sections 1-8 in Humphrey's 'Introduction to Lie Algebras and Representation Theory'"
