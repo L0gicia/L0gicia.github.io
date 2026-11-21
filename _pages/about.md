@@ -26,7 +26,7 @@ You can find my expository education papers in my [Portfolio]({{ base_path }}/po
 
 ### Other Activities
 I am a problem writer and volunteer for the Berkeley Math Tournament, mostly assisting in writing Calculus and Discrete problems, as well as the Integral Bee questions. I was the runner-up in the 2026 UC Berkeley Integration Bee. I participated in the Putnam Competition.
-I am also a chess player and has played competitively for the Berkeley Chess Team in the Collegiate Chess League, most recently in their B Team. 
+I am also a chess player and has played competitively for the Berkeley Chess Team in the Collegiate Chess League (Chess.com rating of 1700 Blitz).
 I am also a small YouTube content creator making variety content.
 In my free time, I like to ponder about certain political, philosophical, and mathematical ideas, and sometimes play piano (because I played it for over 10 years)
 
