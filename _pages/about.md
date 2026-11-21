@@ -10,7 +10,7 @@ redirect_from:
 I am an undergraduate student studying pure mathematics at the University of California, Berkeley. 
 
 ### Interests
-My primary academic interests include Number Theory and Mathematical Logic. 
+My primary academic interests include Number Theory, Model Theory, and Set Theory. 
 
 ### Expository Notes & Research
 You can find my expository education papers in my [Portfolio]({{ base_path }}/portfolio/) or view my [CV]({{ base_path }}/cv/).
@@ -19,7 +19,7 @@ You can find my expository education papers in my [Portfolio]({{ base_path }}/po
 {% for section in site.data.coursework %}
 **{{ section.category }}**: 
 {% for course in section.courses -%}
-  {{ course.code }} ({{ course.name }}){% unless forloop.last %}, {% endunless %}
+  {{ course.code }} ({{ course.name }}{% if course.instructor %} — *{{ course.instructor }}*{% endif %}){% unless forloop.last %}, {% endunless %}
 {%- endfor %}
 
 {% endfor %}
@@ -27,7 +27,7 @@ You can find my expository education papers in my [Portfolio]({{ base_path }}/po
 ### Other Activities
 I am a problem writer and volunteer for the Berkeley Math Tournament, mostly assisting in writing Calculus and Discrete problems, as well as the Integral Bee questions. I was the runner-up in the 2026 UC Berkeley Integration Bee. I participated in the Putnam Competition.
 I am also a chess player and has played competitively for the Berkeley Chess Team in the Collegiate Chess League, most recently in their B Team. 
-I am also a small YouTube content creator, making ShellShock Live content.
+I am also a small YouTube content creator making variety content.
 In my free time, I like to ponder about certain political, philosophical, and mathematical ideas, and sometimes play piano (because I played it for over 10 years)
 
 {% comment %}
