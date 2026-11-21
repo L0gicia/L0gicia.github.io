@@ -15,11 +15,11 @@ My primary academic interests include Number Theory, Model Theory, and Set Theor
 ### Expository Notes & Research
 You can find my expository education papers in my [Portfolio]({{ base_path }}/portfolio/) or view my [CV]({{ base_path }}/cv/).
 
-### Relevant Coursework
+### Relevant Coursework & Independent Study
 {% for section in site.data.coursework %}
 **{{ section.category }}**: 
 {% for course in section.courses -%}
-  {{ course.code }} ({{ course.name }}{% if course.instructor %} — *{{ course.instructor }}*{% endif %}){% unless forloop.last %}, {% endunless %}
+  {% if course.code %}{{ course.code }} ({% endif %}{{ course.name }}{% if course.instructor %} — *{{ course.instructor }}*{% endif %}{% if course.code %}){% endif %}{% unless forloop.last %}, {% endunless %}
 {%- endfor %}
 
 {% endfor %}
